@@ -1,0 +1,27 @@
+# Virtual Environment
+lab2_env/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MLflow & Generated
+mlruns/
+data/
+models/
+metrics/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
